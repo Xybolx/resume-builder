@@ -7,7 +7,7 @@
     "@ckeditor/ckeditor5-build-classic": "^16.0.0",
     "@ckeditor/ckeditor5-build-decoupled-document": "^16.0.0",
     "@ckeditor/ckeditor5-image": "^16.0.0",
-    "@ckeditor/ckeditor5-media-embed": "^16.0.0",
+    "@ckeditor/ckeditor5-media-embed": "^27.0.0",
     "@ckeditor/ckeditor5-react": "^2.0.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
